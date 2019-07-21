@@ -24,7 +24,7 @@
 ### 查找
 没写代码<br>
 ### 排序
-堆排序和外部排序没写<br>
+基数排序和外部排序没写<br>
 [直接插入排序，希尔排序,冒泡排序，快速排序,简单选择排序，堆排序,归并排序](https://github.com/hao297531173/DataStructCode_c/blob/master/%E6%8E%92%E5%BA%8F/sort.h)<br>
-集中排序算法比较<br>
+各种排序算法比较<br>
 ![](https://github.com/hao297531173/DataStructCode_c/blob/master/%E6%8E%92%E5%BA%8F/%E5%90%84%E7%A7%8D%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%AF%94%E8%BE%83.png)

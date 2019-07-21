@@ -158,7 +158,7 @@ void EasySelect(sqList &L){
 }
 
 //堆排序(很快，但是不好想)
-//从小到大排序要使用小根堆
+//从小到大排序要使用大根堆
 void HeapAdjust(sqList &L, int s, int m){
     //本函数进入条件为，除了结点s之外都满足堆的定义
     //调整s使整棵树变成大根堆
@@ -173,7 +173,7 @@ void HeapAdjust(sqList &L, int s, int m){
 }
 
 void HeapSort(sqList &L){
-    //建大顶堆
+    //建大根堆
     for(int i=L.length/2; i>=1; i--){   //从第一个有孩子结点的结点开始调整
         HeapAdjust(L, i, L.length);
     }

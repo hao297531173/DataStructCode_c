@@ -21,6 +21,7 @@
 [邻接表表示，深度优先搜索，广度优先搜索，关键路径和拓扑排序](https://github.com/hao297531173/DataStructCode_c/blob/master/%E5%9B%BE/AdjGraph.c)<br>
 [图的邻接矩阵表示,深度优先搜索，广度优先搜索,prim算法的最小生成树,Kruskal算法的最小生成树,最短路径问题之Dijkstra算法,最短路径问题之Floyd算法](https://github.com/hao297531173/DataStructCode_c/blob/master/%E5%9B%BE/MGraph.c)<br>
 [我将图的算法总结了一下](https://blog.csdn.net/haohulala/article/category/9093084)<br>
+[更新了链式前向星和其BFS与DFS代码](https://github.com/hao297531173/DataStructCode_c/blob/master/%E5%9B%BE/%E9%93%BE%E5%BC%8F%E5%89%8D%E5%90%91%E6%98%9F.cpp)<br>
 ### 查找
 没写代码<br>
 ### 排序
